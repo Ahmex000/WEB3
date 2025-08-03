@@ -1,1 +1,2 @@
 - https://github.com/Raiders0786/web3-security-resources
+- https://x.com/Eyax0/status/1951444452880556366
